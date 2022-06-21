@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marian-roller
 - 👀 I’m interested in php and ruby
-- 🌱 I’m currently learning laravel, drupal and ruby on rails
+- 🌱 I’m currently learning vue.js, laravel and ruby on rails
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me: webmaster@coderobot.eu
 
