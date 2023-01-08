@@ -13,7 +13,7 @@
 
 ### I commercially worked with (among others):
   
-  <span>Backend:</span>
+  <span>**Backend:**</span>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="drupal" **alt="drupal" width="60" height="60"/>
@@ -26,7 +26,7 @@
   
   &nbsp;
   
-  <span>Frontend:</span> 
+  <span>**Frontend:**</span> 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -40,7 +40,7 @@
   
   &nbsp;
   
-  <span>Other:</span>
+  <span>**Other:**</span>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"  title="docker" alt="docker" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
@@ -55,7 +55,7 @@
 ### Also, I used in hobby side projects:
  
   
-  <span>Backend:</span>
+  <span>**Backend:**</span>
    <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" **alt="symfony" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
@@ -70,7 +70,7 @@
   
   &nbsp;
   
-  <span>Frontend:</span> 
+  <span>**Frontend:**</span> 
    <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" **alt="vuejs" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" **alt="jquery" width="60" height="60"/>
@@ -78,7 +78,7 @@
   
   &nbsp;
   
-  <span>Other:</span>
+  <span>**Other:**</span>
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" **alt="markdown" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="heroku" **alt="heroku" width="60" height="60"/>
@@ -90,11 +90,11 @@
 ---
 ### My statistics:
 <div class='container'>
-<img style="height: auto; width: 95%;" class="img" src="https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000" />
+<img style="height: auto; width: 95%;" class="img" src="https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000&title_color=ffffff&custom_title=GitHub%20Stats&show_icons=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 55%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=marian-roller&theme=dark&background=000000" />
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian-roller&langs_count=8&theme=chartreuse-dark&layout=compact" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian-roller&langs_count=8&theme=chartreuse-dark&layout=compact&title_color=ffffff" /></div>
 </div>
 ---
 
