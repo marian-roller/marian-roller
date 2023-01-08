@@ -1,5 +1,6 @@
 ![My Image](assets/banner.png)
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=marian-roller.marian-roller) ![GitHub followers](https://img.shields.io/github/followers/marian-roller?style=social)
 
 - 👋 Hi, I’m @marian-roller
 - 👀 I’m interested in php and ruby
