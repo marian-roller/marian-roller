@@ -1,3 +1,5 @@
+<div style="background: red">
+
 ### Hello!
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -78,7 +80,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
-  
 ### Also, I used in hobby side projects:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -156,7 +157,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000)](https://git.io/streak-stats)
 ---
 
-
+</div>
 
   
   
