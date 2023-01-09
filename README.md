@@ -3,8 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marian-roller.marian-roller) ![GitHub followers](https://img.shields.io/github/followers/marian-roller?style=social)
 
 - 👋 Hi, I’m @marian-roller
-- 👀 I’m interested in php and ruby
-- 🌱 I’m currently learning vue.js, laravel, symfony and ruby on rails
+- 👀 I’m interested in PHP and Ruby
+- 🌱 I’m currently learning Vue.js, Laravel, Symfony and Ruby on rails
 - 📫 How to reach me: webmaster@coderobot.eu
 
 [ Currently working as PHP Developer ]
