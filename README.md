@@ -94,7 +94,7 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 55%;" class="img" src="http://github-readme-streak-stats.herokuapp.com?user=marian-roller&theme=dark&background=000000" />
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian-roller&langs_count=8&theme=chartreuse-dark&layout=compact&title_color=ffffff" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian-roller&langs_count=6&theme=chartreuse-dark&layout=compact&title_color=ffffff" /></div>
 </div>
 ---
 
