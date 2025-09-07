@@ -15,6 +15,7 @@
   
   <span>**Backend:**</span>
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="drupal" **alt="drupal" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" **alt="yii" width="60" height="60"/>
@@ -22,6 +23,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="magento" **alt="magento" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original-wordmark.svg" title="typo3" **alt="typo3" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/openai/000000" title="openai" alt="openai" width="60" height="60"/>
+    <img src="https://cdn.simpleicons.org/n8n/000000" title="n8n" alt="n8n" width="60" height="60"/>
   </div>
   
   &nbsp;
