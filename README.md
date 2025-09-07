@@ -15,14 +15,15 @@
   
   <span>**Backend:**</span>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="drupal" **alt="drupal" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" **alt="yii" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="composer" **alt="composer" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original-wordmark.svg" title="magento" **alt="magento" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typo3/typo3-original-wordmark.svg" title="typo3" **alt="typo3" width="60" height="60"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-line-wordmark.svg" title="doctrine" **alt="doctrine" width="60" height="60"/>
     <img src="https://cdn.simpleicons.org/openai/000000" title="openai" alt="openai" width="60" height="60"/>
     <img src="https://cdn.simpleicons.org/n8n/000000" title="n8n" alt="n8n" width="60" height="60"/>
   </div>
@@ -60,14 +61,12 @@
   
   <span>**Backend:**</span>
    <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" **alt="symfony" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" **alt="codeigniter" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"  title="laravel" alt="laravel" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" **alt="codeigniter" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="ruby" **alt="ruby" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" **alt="rails" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-line-wordmark.svg" title="doctrine" **alt="doctrine" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="60" height="60"/>
   </div>
   
