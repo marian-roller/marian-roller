@@ -95,7 +95,9 @@
 <img style="height: auto; width: 95%;" class="img" src="https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000&title_color=ffffff&custom_title=GitHub%20Stats&show_icons=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=marian-roller&theme=dark&background=000000" />
+<!-- <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=marian-roller&theme=dark&background=000000" /> -->
+<!--<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=marian-roller&theme=dark&background=000000" />-->
+<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=marian-roller&theme=dark&background=000000" />
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian-roller&langs_count=6&theme=chartreuse-dark&layout=compact&title_color=ffffff" /></div>
 </div>
 
