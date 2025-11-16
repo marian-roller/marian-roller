@@ -92,7 +92,7 @@
 ---
 ### My statistics:
 <div class='container'>
-<img style="height: auto; width: 95%;" class="img" src="https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000&title_color=ffffff&custom_title=GitHub%20Stats&show_icons=true" />
+<img style="height: auto; width: 95%;" class="img" src="https://github-readme-stats.vercel.app/api?username=marian-roller&include_all_commits=true&count_private=true&hide=stars,issues,contribs&bg_color=000000&title_color=ffffff&custom_title=GitHub%20Stats%20-%20public%20repos&show_icons=true" />
 &nbsp;
 &nbsp;
 <!-- <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=marian-roller&theme=dark&background=000000" /> -->
